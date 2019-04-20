@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomToastInAndroid</string>
+    <string name="show_toast_button_text">Show Toast</string>
+</resources>
